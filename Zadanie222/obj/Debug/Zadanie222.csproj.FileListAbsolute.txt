@@ -1,0 +1,8 @@
+E:\Программирование\Задание\Zadanie222\Zadanie222\bin\Debug\Zadanie222.exe
+E:\Программирование\Задание\Zadanie222\Zadanie222\bin\Debug\Zadanie222.pdb
+E:\Программирование\Задание\Zadanie222\Zadanie222\obj\Debug\Zadanie222.csprojResolveAssemblyReference.cache
+E:\Программирование\Задание\Zadanie222\Zadanie222\obj\Debug\Zadanie222.Form1.resources
+E:\Программирование\Задание\Zadanie222\Zadanie222\obj\Debug\Zadanie222.Properties.Resources.resources
+E:\Программирование\Задание\Zadanie222\Zadanie222\obj\Debug\Zadanie222.csproj.GenerateResource.Cache
+E:\Программирование\Задание\Zadanie222\Zadanie222\obj\Debug\Zadanie222.exe
+E:\Программирование\Задание\Zadanie222\Zadanie222\obj\Debug\Zadanie222.pdb
